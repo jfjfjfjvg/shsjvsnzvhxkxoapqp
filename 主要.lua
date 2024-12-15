@@ -6,7 +6,7 @@ local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/binji
     bin:Label("XKUI但是作者是RNG！")
     bin:Label("")
     bin:Label("使用过的主播:roblox.小猫老弟\n快手号:4318449781\n罗布勒斯 (铁桶僵尸限定)\n快手号:3785648334\n严厉批评roblox.小猫老弟，直播间禁言我")
-    bin:Label("")
+    bin:Label("严厉批评roblox.小猫老弟直播间禁言我")
         local creds = window:Tab("通用", "6031097229")
         local creditsB = creds:section("人物属性", true)
     
